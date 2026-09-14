@@ -1,5 +1,5 @@
-class left_rotate_the_arr_by_D_place_brute{
-    public static void main(String args[]){
+class  left_rotate_the_arr_by_D_place_brute{
+    public static void  main(String args[]){
         int[] arr={1,2,3,4,5,6,7};
         int d=3;
         int[] temp =new int[d];
