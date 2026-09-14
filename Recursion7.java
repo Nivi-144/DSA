@@ -1,5 +1,5 @@
 public class Recursion7 {
-    int[] a={1,5,9,6,3};
+    int[] a = {1,5,9,6,3};
     int n=a.length;
     void f(int i){
         if(i>=n/2){
