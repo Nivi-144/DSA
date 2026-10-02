@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class recursion1{
     void name(int i,int n){
