@@ -1,5 +1,4 @@
 # 📚 Data Structures & Algorithms
-
 Welcome to my DSA repository!
 
 This repository contains my solutions to Data Structures and Algorithms (DSA) problems solved while preparing for coding interviews, placements, and competitive programming.
