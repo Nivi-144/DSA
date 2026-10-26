@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class Recursion5{
     void printNumbers(int i, int n){
