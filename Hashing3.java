@@ -1,4 +1,3 @@
-
 import java.util.*;
 public class Hashing3{
     public static void main(String[] args){
